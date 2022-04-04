@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.csc101.cn/2022/%E5%AD%A6%E4%BC%9A%E6%8F%90%E9%97%AE%E9%98%85%E8%AF%BB%E7%AC%94%E8%AE%B0/</loc>
+    
+    <lastmod>2022-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.csc101.cn/2022/PASETO%E7%AE%80%E4%BB%8B/</loc>
+    
+    <lastmod>2022-03-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.csc101.cn/2022/Java%E9%80%9A%E8%BF%87%E7%BA%BF%E7%A8%8B%E5%90%8Dkill%E6%8E%89%E7%BA%BF%E7%A8%8B/</loc>
     
     <lastmod>2022-03-19</lastmod>
@@ -58,7 +76,7 @@
 
   <url>
     <loc>https://www.csc101.cn/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,42 +84,56 @@
   
   <url>
     <loc>https://www.csc101.cn/tags/Java/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.csc101.cn/tags/leetcode/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.csc101.cn/tags/algorithm/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.csc101.cn/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.csc101.cn/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.csc101.cn/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.csc101.cn/tags/PASETO/</loc>
+    <lastmod>2022-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.csc101.cn/tags/Token/</loc>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -110,28 +142,35 @@
   
   <url>
     <loc>https://www.csc101.cn/categories/Java/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.csc101.cn/categories/algorithm/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.csc101.cn/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.csc101.cn/categories/%E5%AD%A6%E4%B9%A0/%E6%96%B9%E6%B3%95%E8%AE%BA/</loc>
-    <lastmod>2022-03-22</lastmod>
+    <lastmod>2022-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.csc101.cn/categories/Web%E5%AE%89%E5%85%A8/</loc>
+    <lastmod>2022-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
